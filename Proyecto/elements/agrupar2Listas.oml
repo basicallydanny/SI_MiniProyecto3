@@ -1,0 +1,4 @@
+; OM File Header - Saved 2024/09/23 21:21:53
+; (7.04 :lisp (om-make-point 80 97) (om-make-point 50 50) (om-make-point 500 400) "" 124 0 nil "2024/09/23 21:21:53")
+; End File Header
+(in-package :om)(load-lib-for (quote nil))(setf *om-current-persistent* (om-load-lisp-patch "agrupar2Listas" 7.04 ";;; Edit a valid LAMBDA EXPRESSION for \"lispfunction\"$;;; e.g. (lambda (arg1 arg2 ...) ( ... ))$$(lambda (lista1 lista2) (list lista1 lista2))"))
