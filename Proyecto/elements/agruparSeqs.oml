@@ -1,0 +1,4 @@
+; OM File Header - Saved 2024/09/24 12:00:43
+; (7.04 :lisp (om-make-point 55 94) (om-make-point 50 50) (om-make-point 500 400) "" 124 0 "2024/09/24 11:59:55" "2024/09/24 12:00:39")
+; End File Header
+(in-package :om)(load-lib-for (quote nil))(setf *om-current-persistent* (om-load-lisp-patch "agruparSeqs" 7.04 ";;; Edit a valid LAMBDA EXPRESSION for \"agruparSeqs\"$;;; e.g. (lambda (arg1 arg2 ...) ( ... ))$$(lambda (seq1 seq2) (list seq1 seq2))"))
