@@ -1,4 +1,4 @@
-; OM File Header - Saved 2024/09/26 19:44:57
-; (7.03 :lisp (om-make-point 166 94) (om-make-point 50 50) (om-make-point 500 400) "" 124 0 "2024/09/25 19:21:12" "2024/09/26 19:44:57")
+; OM File Header - Saved 2024/09/26 19:57:38
+; (7.04 :lisp (om-make-point 166 94) (om-make-point 50 50) (om-make-point 500 400) "" 124 0 "2024/09/25 19:21:12" "2024/09/26 19:57:38")
 ; End File Header
-(in-package :om)(load-lib-for (quote nil))(setf *om-current-persistent* (om-load-lisp-patch "chooseTwo" 7.03 ";;; Edit a valid LAMBDA EXPRESSION for \"chooseTwo\"$;;; e.g. (lambda (arg1 arg2 ...) ( ... ))$$(lambda (notes n)$  (let ((selected '())$        (silencio '(-1)))$    (dotimes (i n)$      (let ((first (nth (random (length notes)) notes))$            (second (nth (random (length notes)) notes)))$        (setf selected (append selected (list first second silencio silencio silencio)))))$    selected))$$$$"))
+(in-package :om)(load-lib-for (quote nil))(setf *om-current-persistent* (om-load-lisp-patch "chooseTwo" 7.04 ";;; Edit a valid LAMBDA EXPRESSION for \"chooseTwo\"$;;; e.g. (lambda (arg1 arg2 ...) ( ... ))$$(lambda (notes n)$  (let ((selected '())$        (silencio '(-1)))$    (dotimes (i n)$      (let ((first (nth (random (length notes)) notes))$            (second (nth (random (length notes)) notes)))$        (setf selected (append selected (list first second silencio silencio)))))$    selected))$$$$"))

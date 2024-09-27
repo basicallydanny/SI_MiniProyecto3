@@ -1,4 +1,4 @@
-; OM File Header - Saved 2024/09/25 22:02:45
-; (7.03 :lisp (om-make-point 125 93) (om-make-point 50 50) (om-make-point 500 400) "" 124 0 "2024/09/25 16:47:43" "2024/09/25 22:02:45")
+; OM File Header - Saved 2024/09/26 20:42:18
+; (7.04 :lisp (om-make-point 125 93) (om-make-point 50 50) (om-make-point 500 400) "" 124 0 "2024/09/25 16:47:43" "2024/09/26 20:42:18")
 ; End File Header
-(in-package :om)(load-lib-for (quote nil))(setf *om-current-persistent* (om-load-lisp-patch "ourLoop" 7.03 ";;; Edit a valid LAMBDA EXPRESSION for \"loop\"$;;; e.g. (lambda (arg1 arg2 ...) ( ... ))$$(lambda (lst n)$  (let ((result nil))$    (dotimes (i n result)$      (setf result (append result lst)))))"))
+(in-package :om)(load-lib-for (quote nil))(setf *om-current-persistent* (om-load-lisp-patch "ourLoop" 7.04 ";;; Edit a valid LAMBDA EXPRESSION for \"loop\"$;;; e.g. (lambda (arg1 arg2 ...) ( ... ))$$(lambda (lst n)$  (let ((result nil))$    (dotimes (i n result)$      (setf result (append result lst)))))"))
