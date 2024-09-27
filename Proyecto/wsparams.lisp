@@ -1,1 +1,1 @@
-(in-package :om)(setf *ws-params* (list 0 (om-make-point 582 78) (om-make-point 695 639)))
+(in-package :om)(setf *ws-params* (list 0 (om-make-point 988 84) (om-make-point 859 834)))
