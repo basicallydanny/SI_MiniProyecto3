@@ -15,7 +15,7 @@ Presented by Daniela Gómez and Santiago Peña
     README in regards to the project #3 for Interaction Systems 2472 - A
   </p>
   <p align="center">
-    Link to files: 
+    Link to final video: https://drive.google.com/drive/folders/1HmTkITeOMccG2puv3zI6kMZTPSu52pM_?usp=sharing
   </p>
 </div>
 
@@ -60,8 +60,8 @@ Using OpenMusic (OM), they must develop an algorithm that generates a musical pi
 - [X] Learn the use of OP.
 - [X] Brainstorm a new idea.
 - [X] Develop a musical piece.
-- [] Edit videogame soundtrack with the new musical piece.
-- [] Publish
+- [X] Edit videogame soundtrack with the new musical piece.
+- [X] Publish
 
 ## Decision Overview
 
